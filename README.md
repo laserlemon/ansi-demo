@@ -1,6 +1,6 @@
 # laserlemon/ansi-demo
 
-```ansi
+```
 [1;31merror[E0382][0m: [1mborrow of moved value: `x`[0m
   [34m-->[0m src/main.rs:4:20
    [34m|[0m
